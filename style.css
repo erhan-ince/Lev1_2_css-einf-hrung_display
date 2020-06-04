@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+}
+header{
+    height: 10vh;
+    background: black;
+    text-align: right;
+}
+nav{
+    display: inline-block;
+    color: white;
+    margin-top: 2%;
+}
+li{
+    display: inline;
+    padding-left: 30px;
+    font-size: 20px;
+}
+div{
+    background: url(https://picsum.photos/200/200/) center/cover no-repeat;
+    height: 90vh;
+}
